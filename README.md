@@ -6,7 +6,7 @@ Enjoy :D
 ----latest Changes    
 v 0.3    
 -added search in jamendo.com with apikey    
-v 0.2
+v 0.2   
 -added search in archive.org     
       
 part of MEDiA Revolution X Mediaplayer freeware:     
