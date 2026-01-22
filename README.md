@@ -9,5 +9,3 @@ v 0.3
 v 0.2   
 -added search in archive.org     
       
-part of MEDiA Revolution X Mediaplayer freeware:     
-https://lamita.jimdosite.com/    
